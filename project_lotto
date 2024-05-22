@@ -1,7 +1,7 @@
 from tkinter import *
 win=Tk()
 win.geometry("300x100")
-win.option_add("*font","맑은고딕 25")
+win.option_add("*font","돋움 25")
 
 ent= Entry(win)
 ent.pack()
